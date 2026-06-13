@@ -6,4 +6,4 @@ touch .gitattributes
 *.md text eol=lf
 git add --renormalize .
 git config --global --list
-
+git checkout -b branch-name
