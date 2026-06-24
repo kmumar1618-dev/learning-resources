@@ -7,3 +7,4 @@ touch .gitattributes
 git add --renormalize .
 git config --global --list
 git checkout -b branch-name
+git --help
