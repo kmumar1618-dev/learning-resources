@@ -36,6 +36,8 @@ cd ~
 
 git clone git@github.com:YOUR_USERNAME/learning-resources.git
 ~/learning-resources
+\\wsl$		to browse to wsl installed git is stored here through ubuntu
+then home, kmumar, ubuntu, git  and there are all your cloned repos
 
 
 
