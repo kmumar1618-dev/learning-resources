@@ -91,7 +91,7 @@ git remote -v
 Current remote was:
 
 ```text
-https://github.com/kmumar1618-dev/learning-resources.git
+https://github.com/repo-id/learning-resources.git
 ```
 
 ---
@@ -134,9 +134,6 @@ Meaning:
 Attempting Git operations on:
 
 ```text
-/mnt/c/users/ZS/documents/git/learning-resources
-```
-
 produced errors such as:
 
 ```text
@@ -177,7 +174,6 @@ ls -l .git/config
 Do NOT work from:
 
 ```text
-/mnt/c/users/ZS/documents/git
 ```
 
 Create a Linux workspace:
@@ -199,7 +195,6 @@ git clone git@github.com:kmumar1618-dev/learning-resources.git
 Result:
 
 ```text
-/home/kmumar/git/learning-resources
 ```
 
 Benefits:
@@ -214,7 +209,6 @@ Benefits:
 # 10. Verify Repository
 
 ```bash
-cd ~/git/learning-resources
 
 git status
 ```
@@ -239,7 +233,6 @@ Open WSL filesystem:
 Repository location:
 
 ```text
-\\wsl$\Ubuntu\home\kmumar\git\learning-resources
 ```
 
 Open current Linux folder in Windows Explorer:
