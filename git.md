@@ -39,6 +39,15 @@ git clone git@github.com:YOUR_USERNAME/learning-resources.git
 \\wsl$		to browse to wsl installed git is stored here through ubuntu
 then home, kmumar, ubuntu, git  and there are all your cloned repos
 
-
+kmumar@DESKTOP-0VHBC98:~/git/Python$ pwd
+remote -v/home/kmumar/git/Python
+kmumar@DESKTOP-0VHBC98:~/git/Python$ git remote -v
+origin  https://github.com/kmumar1618-dev/Python.git (fetch)
+origin  https://github.com/kmumar1618-dev/Python.git (push)
+kmumar@DESKTOP-0VHBC98:~/git/Python$ git remote set-url origin git@github.com:kmumar1618-dev/Python.git
+kmumar@DESKTOP-0VHBC98:~/git/Python$ git remote -v
+origin  git@github.com:kmumar1618-dev/Python.git (fetch)
+origin  git@github.com:kmumar1618-dev/Python.git (push)
+kmumar@DESKTOP-0VHBC98:~/git/Python$ git status
 
 
