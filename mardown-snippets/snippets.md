@@ -23,9 +23,11 @@ GitHub markdown doesn't center text natively, but HTML works here too:
   <h1>My Project</h1>
   <p>A short tagline</p>
 </div>
+
 ## 6. Fancy fonts / banner images
 Real "designed" text (gradient fonts, stylized titles) usually isn't text at all — it's an image (a banner/logo made in Canva/Figma) inserted like:
 ![banner](./assets/banner.png)
 Some people also use readme-typing-svg or capsule-render banners for animated gradient title headers — you just paste a generated URL.
+
 ## 7. Icons
 Simple Icons or shields.io logos, or emoji shortcodes like :rocket: → 🚀
